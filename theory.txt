@@ -1,0 +1,32 @@
+
+1. Rahim
+2. Karim
+3. Akbar
+
+.fiuhfidhf
+.uygugkuyg
+
+
+
+ul => unordered list
+ol => ordered list
+
+
+1.
+2.
+3.
+
+a.
+b.
+c.
+
+.kugjhjh
+.njjjjj
+.lkkkik
+
+==========Display Element=========
+1. inline
+2. block
+
+For comment...
+ctrl + /
